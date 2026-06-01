@@ -1,0 +1,6 @@
+Flask==2.2.5
+# flasgger removed due to incompatibility with this Python version
+# Use pydantic compatible with newer packages
+pydantic>=2.0.3
+requests==2.31.0
+flet==0.10.0
